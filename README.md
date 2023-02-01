@@ -1,0 +1,1 @@
+# YetGen-Core-Pyhton-Egitim-Programi
