@@ -1,0 +1,6 @@
+kullanici adi bengisu ermutlu
+kullanicinin yas, kilo, boy bilgisi 20, 50.0, 1.6
+kullanicinin vucut kitle indexi 19.5
+deger araligi Normal kilolu
+kayit tarihi Fri Apr 14 18:17:01 2023
+********************
